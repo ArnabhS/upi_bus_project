@@ -1,0 +1,284 @@
+/* *, *:before , *::after{
+  padding: 0;
+  margin: 0;
+  box-sizing:border-box;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  /* background-color: #333; */
+/* 
+
+.logo{
+  width: 100px;
+}
+
+
+header{
+  width:100% ;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+
+}
+header nav{
+  background-color: rgb(67, 56, 92);
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+ 
+    min-height: 100px;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding: 20px;
+}
+
+header ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+header ul a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0 0.5rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 0.83;
+}
+
+
+.hamburger{
+  padding-left: 1.5rem;
+}
+
+.hamburger a{
+  width: 37px;
+  height: 37px;
+  display: flex;
+  border-radius: 50%;
+  background-color: rgba(115,115,115, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  justify-content:center;
+  align-items: center;
+}
+.hamburger .bar{
+  position: relative;
+  width: 52%;
+  background-color: #fff;
+  border-radius: 2px;
+}
+
+.hamburger .bar::before , .hamburger .bar::after{
+  content: "";
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 100%;
+  background-color: inherit;
+  border-radius: 2px;
+}
+.hamburger .bar::before{
+  top:-4.5px;
+}
+
+.hamburger .bar::after{
+  top: 4.5px;
+}  */
+
+
+
+ /* .HomeP {
+ font-family: Arial, sans-serif;
+ text-align: center;
+ color: #282c34;
+} */
+
+/*.HP-header {
+ background-color: #282c34;
+ min-height: 100px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ font-size: calc(10px + 2vmin);
+ color: white;
+ padding: 20px;
+}
+
+/*.HP-header nav{
+  display: flex;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.booking-section, .game-section, .ticket-section {
+ margin: 20px;
+}
+
+.book-button, .stop-button, .next-button {
+ background-color: #282c34;
+ border: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+}
+.book-button {
+    float: left;
+  }
+  .stop-button {
+    float: right;
+  } */ 
+
+
+
+
+*, *:before , *::after{
+  padding: 0;
+  margin: 0;
+  box-sizing:border-box;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  /* background-color: #333; */
+}
+.logo{
+  width: 100px;
+}
+.header{
+  width:100% ;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+
+}
+header nav{
+  background-color: rgb(62, 44, 85);
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header ul a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0 1.5rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 0.83;
+}
+
+.hamburger{
+  padding-left: 1.5rem;
+}
+
+.hamburger a{
+  width: 37px;
+  height: 37px;
+  display: flex;
+  border-radius: 50%;
+  background-color: rgba(115,115,115, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  justify-content:center;
+  align-items: center;
+}
+.hamburger .bar{
+  position: relative;
+  width: 52%;
+  background-color: #fff;
+  border-radius: 2px;
+}
+
+.hamburger .bar::before , .hamburger .bar::after{
+  content: "";
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 100%;
+  background-color: inherit;
+  border-radius: 2px;
+}
+.hamburger .bar::before{
+  top:-4.5px;
+}
+
+.hamburger .bar::after{
+  top: 4.5px;
+ } 
+
+ .h1{
+  color: aqua;
+ }
+
+ .ticketBook{
+  font-family: 'Courier New', Courier, monospace;
+  justify-content:center;
+  align-items: center;
+  /* font-size: large; */
+  box-sizing: border-box;
+  background-color: rgb(151, 212, 212);
+  position: relative;
+    background: linear-gradient(
+        to right, #e90c9f, #94094a,
+         #7007a0, #2a09e4);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    letter-spacing: 12px; 
+    font-size: 10vmin;
+    padding-left: 20px;
+ }
+
+ .ticketBook :hover{
+  background-color: rgb(87, 128, 189);
+  text-shadow: #2a09e4;
+  box-shadow: #e90c9f;
+  opacity: 0.6;
+  -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  cursor: pointer;
+ }
+
+ .buttonList{
+  margin-top: 20vmin;
+ }
+
+ .previousstop{
+  margin-right: 2cm;
+  align-items: left;
+  justify-content: left;
+  justify-items: left;
+ }
+ .currentstop{
+  margin-right: 2cm;
+  align-items: left;
+  justify-content: left;
+  justify-items: left;
+ }
+ 
+ .dt{
+  margin-top: 4rem;
+  color: rgb(152, 139, 223);
+  background-color:rgb(168, 221, 203);
+ }
