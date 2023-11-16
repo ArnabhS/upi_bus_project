@@ -15,6 +15,10 @@ export default function Home() {
           <button className='CS'>Current Stop</button>
           <button className='NS'>Next Stop</button>
           </div>
+          
+        <footer>
+        <p className='footer'>&copy; 2022 Book Your Game. All rights reserved.</p>
+      </footer>
 
           
   </div>
