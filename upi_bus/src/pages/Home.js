@@ -1,6 +1,6 @@
 import './Home.css';
 import { useNavigate } from 'react-router-dom';
-
+import DateTime from './DateTime';
 export default function Home() {
   const navigate= useNavigate();
   return (
@@ -18,9 +18,13 @@ export default function Home() {
           <button className='CS'>Current Stop</button>
           <button className='NS'>Next Stop</button>
           </div>
+
+          <div className='DateTime'>
+            <DateTime/>
+          </div>
           
         <footer>
-        <p className='footer'>&copy; 2022 Book Your Game. All rights reserved.</p>
+        <p className='footer'>&copy; 2023 Book Your Game. All rights reserved.</p>
       </footer>
 
           
