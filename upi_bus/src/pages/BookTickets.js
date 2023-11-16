@@ -1,6 +1,8 @@
-import React from 'react'
-import { useState } from 'react'
-import './BookTickets.css'
+import React from 'react';
+import { useState } from 'react';
+import './BookTickets.css';
+import { useNavigate } from 'react-router-dom';
+import Payment from './Payment';
 const BookTickets = () => {
   const [location , setLocation]= useState("");
   const [destination , setDestination]= useState("");
@@ -8,7 +10,7 @@ const BookTickets = () => {
     event.preventDefault();
     alert(location);
   }
-
+  const navigate= useNavigate();
   return (
     <div className='main' >
       <h2 className='title2'>BOOK YOUR TICKETS </h2>
@@ -20,7 +22,7 @@ const BookTickets = () => {
         <input type="text" placeholder="Enter your destination"  className='box'value={destination} onChange={(e) => setDestination(e.target.value)}/>
         </div>
         <div>
-        <input type="submit" className='submit' value="Proceed For payment"/>
+        <input type="submit" className='submit' value="Proceed For payment" onClick={()=>navigate("/Payment")}/>
         </div>
         </div>
         
