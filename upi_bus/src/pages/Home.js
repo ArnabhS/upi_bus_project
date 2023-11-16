@@ -24,7 +24,7 @@ export default function Home() {
           </div>
           
         <footer>
-        <p className='footer'>&copy; 2023 Book Your Game. All rights reserved.</p>
+        <p className='footer'>&copy; 2023 Book Your Tickets. All rights reserved.</p>
       </footer>
 
           

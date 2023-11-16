@@ -5,7 +5,7 @@ var DateTime=()=>{
     var displayDate=showDate.getDate()+'/'+showDate.getMonth()+'/'+showDate.getFullYear();
     return(
         <div>
-            <input className="box" type="text" value={displayDate} readOnly="true"></input>
+            <input className="boxdt" type="text" value={displayDate} readOnly="true"></input>
         </div>
     )
 }
