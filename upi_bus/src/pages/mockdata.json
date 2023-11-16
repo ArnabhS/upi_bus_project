@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "From": "Biswa Bangla",
+      "To": "Technopolis",
+      "Distance" :"3",
+      "Fare": "10Rs"
+    },
+    {
+      "id": 2,
+      "From": "UEM",
+      "To": "Sector 5",
+      "Distance": "7",
+      "Fare": "15Rs"
+    },
+    {
+      "id": 3,
+      "From": "Shapoorjee",
+      "To": "Technopolis",
+      "Distance": "8",
+      "Fare": "15Rs"
+    },
+    {
+      "id": 4,
+      "From": "UEM",
+      "To": "Ultadanga",
+      "Distance": "12",
+      "Fare": "18Rs"
+    },
+    {
+      "id": 5,
+      "From": "Biswa Bangla",
+      "To": "Ultadanga",
+      "Distance": "9",
+      "Fare": "15Rs"
+    }
+  ]
