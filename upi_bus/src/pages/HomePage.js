@@ -1,6 +1,7 @@
 import './HomePage.css';
 import { useNavigate } from 'react-router-dom';
 import DateTime from './DateTime';
+import Navbar from '../Navbar';
 // import Navbar from '../Navbar';
 export default function Home() {
   const navigate= useNavigate();
@@ -8,7 +9,7 @@ export default function Home() {
     <div className='container maint-cnt'>
 
       <div className="header-nav">
-                <span className="mytext1"> UPI BUS SERVICE </span>
+                <span className="mytext1"> <Navbar /> </span>
             </div>
             
             <div className="">

@@ -1,6 +1,7 @@
 
-
+import "./styles.css";
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
+
 export default function Navbar(){
     return ( <nav className="nav">
         <Link to="/" className="title"> Upi Bus Service</Link>

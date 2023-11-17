@@ -1,33 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300;400&family=Montserrat:wght@300;400;500;600;700&family=Poppins:ital,wght@0,200;0,300;1,100;1,400&family=Reem+Kufi+Fun:wght@400;500;600;700&family=Roboto:wght@100;300&family=Varela+Round&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300;400&family=Montserrat:wght@300;400;500;600;700&family=Poppins:ital,wght@0,200;0,300;1,100;1,400&family=Reem+Kufi+Fun:wght@400;500;600;700&family=Roboto:wght@100;300&family=Varela+Round&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-body{
-    /*background-image: url('https://assets.telegraphindia.com/telegraph/2022/Feb/1644781493_bus.jpg');*/
-    background: linear-gradient(45deg, #010758,#490d61);
+/* body{ 
+    background-image: url('https://assets.telegraphindia.com/telegraph/2022/Feb/1644781493_bus.jpg');*/
+     */
+    
+    /* background: linear-gradient(45deg, #010758,#490d61); */
      
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat;
     background-size: cover;
 }
 
-.main{
+.main{ */
     /*background-color:#5874d1 ;*/
-    margin-top: -16px;
+    /* margin-top: -16px;
     margin-left: -16px;
     margin-right: -15px;
     padding-bottom: 400px;
    
-}
+} */
    
 h2{
     padding-top: 60px;
     font-size: 60px;
     color:#ff2963;
-}
-.from{
+} 
+ .from{
     color:#ff2963;
     font-size: 25px;
 }
@@ -54,4 +56,4 @@ h2{
     padding: 3px;
     border-radius: 5px;
     
-}
+} 

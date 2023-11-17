@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -17,11 +17,14 @@ img {
 body {
   max-width: 100%;
   overflow-x: hidden;
+
 }
 
 body {
   background-color: #f6f6f6;
-}
+} 
+
+
 
 nav {
   display: flex;
@@ -85,9 +88,13 @@ nav {
 }
 .primary-heading {
   font-size: clamp(2rem, 5vw, 4rem);
-  color: #4c4c4c;
+  color: #4c4c4c; */
+
+
   /* line-height: 5rem; */
-  max-width: 600px;
+
+
+  /* max-width: 600px;
 }
 .primary-text {
   font-size: clamp(1rem, 3vw, 1.5rem);
@@ -210,11 +217,15 @@ nav {
   font-size: 1.5rem;
   margin-right: 1.25rem;
   color: #585858;
-}
+} */
+
+
 /* .footer-section-one {
   border: 2px solid blue;
 } */
-.footer-section-two {
+
+
+/* .footer-section-two {
   flex: 1;
   display: flex;
   justify-content: flex-end;
@@ -425,4 +436,4 @@ nav {
   .about-background-image-container {
     display: none;
   }
-}
+} */

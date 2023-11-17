@@ -1,7 +1,7 @@
-body{
+/* body{
   background: linear-gradient(45deg, #010758,#490d61);
   background-size: contain;
-}
+} */
 .app-container {
     display: flex;
     flex-direction: column;
