@@ -1,0 +1,25 @@
+.destination{
+    margin-top:2%;
+    
+}
+.Dbox{
+    background: linear-gradient(45deg, #010758,#490d61);
+    margin-left: 36px;
+    color:rgb(222, 140, 140);
+    padding: 8px;
+    border-radius: 10px;
+}
+.Lbox{
+    background: linear-gradient(45deg, #010758,#490d61);
+    color:rgb(222, 140, 140);
+    padding: 8px;
+    border-radius: 10px;
+}
+.from{
+    font-size: 25px;
+    font-weight: 800;
+}
+.to{
+    font-size: 25px;
+    font-weight: 800;
+}

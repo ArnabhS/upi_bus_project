@@ -1,12 +1,16 @@
 import data from "./mockdata.json"
 import './FareChart.css'
-
+import Navbar from "../Navbar";
 import { useState } from "react"
 export default function FareChart() {
   const [contacts, setContacts]=useState(data);
 
   return (
-    <div className='app-container'>
+   
+
+    <div >
+     <Navbar/>
+     <div className='app-container'>
       <table>
         <thead>
           <tr>
@@ -27,6 +31,7 @@ export default function FareChart() {
           ))}
         </tbody>
       </table>
+    </div>
     </div>
   )
 }

@@ -24,36 +24,19 @@
    
 } */
    
-h2{
-    padding-top: 60px;
-    font-size: 60px;
-    color:#ff2963;
-} 
- .from{
-    color:#ff2963;
-    font-size: 25px;
+.title2{
+    margin-top:50% ;
 }
-.to{
-    color:#ff2963;
-    font-size: 25px;
-}
-.input{
-    padding-top: 100px;
-    
-}
-.box{
-    border-radius: 5px;
-    width: 24%;
-    padding: 5px;
-}
-.destination{
-    margin-top: 13px;
-    margin-left: 20px;
-}
+ .dropdown{
+    margin-top: 14%;
+ }
 .submit{
     margin: 15px;
-    margin-left: 60px;
+    margin-left: 90px;
     padding: 3px;
-    border-radius: 5px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #010758,#490d61);
+    color:rgb(222, 140, 140);
+    width: 25%;
     
 } 
