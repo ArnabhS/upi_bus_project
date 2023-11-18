@@ -20,7 +20,7 @@ export default function Home() {
             <div className="container">
                 <div className="slogan">
                     <h1>
-                        <span>always Travel</span>
+                        <span >always Travel</span>
                         <div className="message">
                             <div className="word1">Uniquely</div>
                             <div className="word2">Safely</div>
@@ -53,11 +53,14 @@ export default function Home() {
           <button className='NS'>Next Stop</button>
           </div>
 
-          <div className='DateTime'>
+          
+        <footer>
+
+        <div className='DateTime'>
             <DateTime/>
           </div>
           
-        <footer>
+
         <p className='footer'>&copy; 2023 Book Your Tickets. All rights reserved.</p>
       </footer>
 

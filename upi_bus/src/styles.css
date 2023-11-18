@@ -10,6 +10,7 @@ body{
 
 }
 .nav{
+
     color: #fff;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0.425), 0 0 4px rgba(255, 255, 255, 0.425), 0 0 8px rgba(255, 255, 255, 0.425), 0 0 32px rgba(0, 255, 255, 0.425), 0 0 64px rgba(0, 255, 255, 0.425), 0 0 90px rgba(0, 255, 255, 0.425);
     font-family: 'Piedra', cursive; 
@@ -17,6 +18,14 @@ body{
      font-size: 20px;
     font-weight: 200;
     /* letter-spacing: 8px; */
+
+
+    color: #fff;
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0.425), 0 0 4px rgba(255, 255, 255, 0.425), 0 0 8px rgba(255, 255, 255, 0.425), 0 0 32px rgba(0, 255, 255, 0.425), 0 0 64px rgba(0, 255, 255, 0.425), 0 0 90px rgba(0, 255, 255, 0.425);
+    font-family: 'Piedra', cursive;
+    font-size: 20px;
+    font-weight: 200;
+
     letter-spacing: 5px;
     margin-bottom: 2px;
     margin-top: 2px;
@@ -32,7 +41,11 @@ body{
     justify-content: space-between;
     align-items: stretch;
     gap: 6rem;
+
     padding: 0 rem;
+
+    padding: 0rem;
+
    
 }
 .title{
@@ -54,7 +67,11 @@ body{
     margin: 0;
     list-style: none;
     display: flex;
+
     gap:  3rem;
+
+    gap: 3rem;
+
 
 }
 
