@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import DateTime from './DateTime';
 import Navbar from '../Navbar';
 // import Navbar from '../Navbar';
+
 export default function Home() {
   const navigate= useNavigate();
   return (
@@ -32,7 +33,7 @@ export default function Home() {
       {/* <div >
       <img className='img' src="https://assets.telegraphindia.com/telegraph/2022/Feb/1644781493_bus.jpg" alt="" />
       </div> */}
-    {/* <button onClick={()=>navigate("/BookTickets")} className="mainBtn">
+    <button onClick={()=>navigate("/BookTickets")} className="mainBtn">
     <svg width="277" height="62">
                         <defs>
                             <linearGradient id="grad1">
@@ -43,8 +44,8 @@ export default function Home() {
                         <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
                     </svg>
 
-                    <span>BOOK YOUR TICKETS HERE</span>
-    </button> */}
+      <span>BOOK YOUR TICKETS HERE</span>
+    </button>
 
     
     <div class="buttonList">
