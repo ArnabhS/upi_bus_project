@@ -1,7 +1,7 @@
 # upi_bus_project
 MERN bus upi system .
 
-~*Introduction*~
+*Introduction*
 
 
 This UPI bus service innovative project will
