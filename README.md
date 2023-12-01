@@ -1,7 +1,9 @@
 # upi_bus_project
 MERN bus upi system .
 
-#Introduction
+*Introduction*
+
+
 This UPI bus service innovative project will
 provide us the simpliest method of collecting
 our ticket by ourselves . This system helps us
