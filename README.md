@@ -28,9 +28,9 @@ passengers of the bus
 
 
 Outdated Payment Systems:
-Solution: Implement a UPI-based payment system to replace traditional cash transactions and paper tickets, streamlining the payment process and reducing transaction times.
+ Implement a UPI-based payment system to replace traditional cash transactions and paper tickets, streamlining the payment process and reducing transaction times.
 Lack of Digital Options:
-Solution: Introduce a comprehensive digital payment system that leverages UPI technology, providing passengers with convenient and accessible cashless payment options.
+ Introduce a comprehensive digital payment system that leverages UPI technology, providing passengers with convenient and accessible cashless payment options.
 Security Concerns:
 Solution: Incorporate robust security measures into the UPI payment system, ensuring the protection of sensitive financial information and building trust among passengers.
 Inefficient Fare Calculation:
