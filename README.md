@@ -1,4 +1,4 @@
-# upi_bus_project
+# UPI_BUS_SERVICE
 MERN bus upi system .
 
 *Introduction*
