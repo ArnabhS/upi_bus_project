@@ -24,6 +24,6 @@ passengers of the bus
  
 
 
-Proposed Solution
+*Proposed Solution*
 
 
