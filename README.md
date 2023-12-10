@@ -48,7 +48,11 @@ Developed With:
 *Node.js* - Javascript runtime
 
 *React* - A javascript library for building user interfaces
-Babel - A transpiler for javascript
-Webpack - A module bundler
-CSS - A css metalanguage
-Bootstrap 4 - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
+
+*Babel* - A transpiler for javascript
+
+*Webpack* - A module bundler
+
+*CSS* - A css metalanguage
+
+*Bootstrap 4* - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
