@@ -33,7 +33,7 @@ passengers of the bus
  Introduce a comprehensive digital payment system that leverages UPI technology, providing passengers with convenient and accessible cashless payment options.
 *Security Concerns*:
  Incorporate robust security measures into the UPI payment system, ensuring the protection of sensitive financial information and building trust among passengers.
-Inefficient Fare Calculation:
+*Inefficient Fare Calculation*:
  Introduce real-time fare calculation based on the distance travelled, promoting a fair and transparent pricing system for bus journeys.
 Limited User Convenience:
  Develop a user-friendly interface for the UPI payment system and integrate it with dedicated mobile apps, enhancing route planning, schedule checks, and overall user convenience.
