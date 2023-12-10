@@ -37,3 +37,18 @@ passengers of the bus
  Introduce real-time fare calculation based on the distance travelled, promoting a fair and transparent pricing system for bus journeys.
 Limited User Convenience:
  Develop a user-friendly interface for the UPI payment system and integrate it with dedicated mobile apps, enhancing route planning, schedule checks, and overall user convenience.
+
+
+
+Developed With:
+
+
+*Visual Studio Code* - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
+
+*Node.js* - Javascript runtime
+
+*React* - A javascript library for building user interfaces
+Babel - A transpiler for javascript
+Webpack - A module bundler
+CSS - A css metalanguage
+Bootstrap 4 - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
