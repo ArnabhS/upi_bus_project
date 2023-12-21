@@ -1,5 +1,5 @@
 # UPI_BUS_SERVICE
-MERN bus upi system .
+MERN bus UPI System .
 
 *Introduction*
 
