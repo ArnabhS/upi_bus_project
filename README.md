@@ -30,13 +30,13 @@ passengers of the bus
 *Outdated Payment Systems*:
  Implement a UPI-based payment system to replace traditional cash transactions and paper tickets, streamlining the payment process and reducing transaction times.
 *Lack of Digital Options*:
- Introduce a comprehensive digital payment system that leverages UPI technology, providing passengers with convenient and accessible cashless payment options.
+     Introduce a comprehensive digital payment system that leverages UPI technology, providing passengers with convenient and accessible cashless payment options.
 *Security Concerns*:
- Incorporate robust security measures into the UPI payment system, ensuring the protection of sensitive financial information and building trust among passengers.
+     Incorporate robust security measures into the UPI payment system, ensuring the protection of sensitive financial information and building trust among passengers.
 *Inefficient Fare Calculation*:
- Introduce real-time fare calculation based on the distance travelled, promoting a fair and transparent pricing system for bus journeys.
+    Introduce real-time fare calculation based on the distance travelled, promoting a fair and transparent pricing system for bus journeys.
 Limited User Convenience:
- Develop a user-friendly interface for the UPI payment system and integrate it with dedicated mobile apps, enhancing route planning, schedule checks, and overall user convenience.
+   Develop a user-friendly interface for the UPI payment system and integrate it with dedicated mobile apps, enhancing route planning, schedule checks, and overall user convenience.
 
 
 
